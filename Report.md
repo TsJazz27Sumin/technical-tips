@@ -13,7 +13,69 @@
 ### テクノロジーとデザインによる、”感動価値” 創造への挑戦
 - 10:50 - 11:30   ホールA（9F）
 - 長谷川 豊 : ソニー株式会社 VP. クリエイティブセンター センター長 
-  - xxx
+  - SONYの人
+  - 1 
+    - Sony innvation = technology x dsign
+    - sony design from 1961
+    - sony philosophy
+    - sony のプロダクトの写真
+    - インダストリーデザイン
+    - デザインを軸に
+    - Sony's Technology
+      - Audio / visual
+      - imaging
+      - xx
+    - desigining interractive experiences and stories
+    - <Interactive space>
+    - Any surface
+    - インターフェース
+    - ユーザーに対する
+    - あらゆるもの
+    - 人に対して変わっていく。
+    - 動画
+    - 窓、壁
+    - IDカード、Music
+    - Experiential Design Protype
+    - Blending physical and dgital
+    - 実験を行ってきた。
+    - making physical object move
+    - making physical object into a daily controller
+      - ポッド、温度
+    - 窓がなくても、木漏れ日、投影
+    - milano design week
+      - day & night
+    - オブジェクトに紐づいたインタラクティブデザイン
+    - an/other hotel tokyo
+  - 2
+    - robotics
+    - milano design weekに出した。
+    - メガトロニクス、AI
+    - affinity in autonomy
+      - awakening
+      - autonomous
+        - 微妙な動き、猫、ロンドン
+      - accordance
+      - affiliation
+      - association
+        - キューブ、四角い箱
+      - ユーザー自身との関係性
+      - 形自身が持つ意味性よりも関係性
+      - ヨーロッパ
+      - アイボ、動き、目の動き
+      - 
+  - 3
+    - responsive entermaiment media
+    - 高速ビジョンセンサー
+    - 赤白の選定
+    - プロジェクション、デザイン、場のデザイン
+    - デジタルホッケー
+    - interactive cube
+      - 音、ビジュアル、DJ
+    - socialble cart
+    - 移動空間の価値観、mixed reality、チャレンジ
+    - crusing service
+  - デザイナーの役割
+  - テクノジーを編集・翻訳して”感動価値”を創造する
 ### 茹でガエル状態の日本企業と躍進するGAFA。エンジニアは、これからどこで勝負すべきなのか？
 - 11:50 - 12:30   ホールA（9F）
 - 中島 聡 : 一般社団法人 シンギュラリティ・ソサエティ 代表理事 
