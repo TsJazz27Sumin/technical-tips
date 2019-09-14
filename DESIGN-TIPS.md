@@ -8,5 +8,13 @@
 - [SketchとInVisionを使って爆速でプロトタイプを作成する方法](https://webdesign-trends.net/entry/4340)
   - ツールの使い方
 - [Googleが新しく発表したチャートデザインの6つの原則とは](https://ic-root.com/blog/google-datavisualization/)
+- [Manabu Ueno：UXの3階層](https://mobile.twitter.com/manabuueno/status/1168902927722995712)
+
+##  Laura van Doore Slide
 - [Building a Scalable Design System with Sketch](https://speakerdeck.com/lauravandoore/building-a-scalable-design-system-with-sketch)
 - [Forging rock solid design disciplines](https://speakerdeck.com/lauravandoore/forging-rock-solid-design-disciplines)
+- [Building a compelling business case for a Design System](https://speakerdeck.com/lauravandoore/building-a-compelling-business-case-for-a-design-system)
+
+## Design System
+- [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
+- [Shopfy:Polaris](https://polaris.shopify.com/)
