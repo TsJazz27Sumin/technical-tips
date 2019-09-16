@@ -2,6 +2,7 @@
 
 ## all
 - [【2019年版】バックエンドエンジニアが React でモダンなフロントエンド開発を始めるまで](https://developer.feedforce.jp/entry/2019/09/04/140000)
+  - CSS in Depth とヘルシンキ大学の Full Stack Open 2019は、ちゃんとやってみたい。
 - [Reactで開発するチームが共通認識しておきたい重要な概念](https://tech.kitchhike.com/entry/2018/10/31/233000)
 - [React/Redux約三年間書き続けたので知見を共有します](http://www.enigmo.co.jp/blog/tech/reactredux%E7%B4%84%E4%B8%89%E5%B9%B4%E9%96%93%E6%9B%B8%E3%81%8D%E7%B6%9A%E3%81%91%E3%81%9F%E3%81%AE%E3%81%A7%E7%9F%A5%E8%A6%8B%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99/)
 
