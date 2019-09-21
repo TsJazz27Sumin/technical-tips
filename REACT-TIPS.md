@@ -11,6 +11,7 @@
 - [Atomic Designを使ってReactコンポーネントを再設計した話](https://blog.spacemarket.com/code/atomic-design%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6react%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E3%82%92%E5%86%8D%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E8%A9%B1/)
 - [2017末時点での React Component 設計のベストプラクティス](https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a)
 - [React (TypeScript): ベストプラクティス](https://qiita.com/yumaeda/items/9f5111fe7597037efb57)
+- [react-rainbow-components](https://react-rainbow.web.app/)
 
 ## typeless
 - [typelessというReact向け状態管理ライブラリがめっちゃいい](https://qiita.com/sisisin/items/1ee2c798309da614c648)
@@ -26,3 +27,4 @@
 - [React 16.8: 正式版となったReact Hooksを今さら総ざらいする](https://qiita.com/uhyo/items/246fb1f30acfeb7699da)
 - [【React】新機能hooks](https://qiita.com/YutamaKotaro/items/ef0430f570779dcf8a26)
 - [宣言的UIはReact Hooksで完成に至り、現代的設計論が必須の時代になる](https://qiita.com/erukiti/items/fb7bcbd9d79696579d06)
+- [おまえはReact hooksを知っているか](https://qiita.com/hystking/items/2a082ee86dc0b66793cb)
