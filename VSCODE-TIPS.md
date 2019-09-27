@@ -1,4 +1,4 @@
-# VSCODE-TIPS
+# Vscode-Tips
 
 - visual studio code 関連
   - [VS CodeでPythonの中間ファイル(.pyc)を非表示にする](https://www.sukerou.com/2019/03/vs-codepythonpyc.html)

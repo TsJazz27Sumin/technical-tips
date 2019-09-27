@@ -1,4 +1,4 @@
-# MAC-TIPS
+# Mac-Tips
 
 - macで開発する時の小ネタ
   - [Macにおけるバックスラッシュ（\）の入力方法](https://qiita.com/miyohide/items/6cb8967282d4b2db0f61)

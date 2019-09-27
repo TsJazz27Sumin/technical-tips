@@ -1,4 +1,4 @@
-# DESIGN-TIPS
+# Design-Tips
 
 - [これだけ守れば見やすくなるデザインの基礎](https://speakerdeck.com/kinakobooster/koredakeshou-rebajian-yasukunarudezainfalseji-chu)
   - 認知負荷って考え方が新鮮だった。S社のUさんから教えてもらったもの。

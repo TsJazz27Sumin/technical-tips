@@ -1,4 +1,4 @@
-# SPA-TIPS
+# Spa-Tips
 
 - [JavaScript: フレームワーク React/Vue/Angularについて](https://dev.to/gumi/javascript-react-vue-angular-2g1p)
   - 色々グラフとか数値を用いて、それぞれの利用具合を分析している。

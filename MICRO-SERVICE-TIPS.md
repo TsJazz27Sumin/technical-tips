@@ -1,4 +1,4 @@
-# MICRO-SERVICE-TIPS
+# Micro-Service-Tips
 
 - [マイクロにしすぎた結果がこれだよ！](https://www.slideshare.net/mosa_siru/ss-64839846)
   - マイクロサービスの実践ログ。失敗談がためになる。
