@@ -18,6 +18,7 @@
 - [React向け状態管理ライブラリtypelessの1.0.0リリースされました](https://qiita.com/sisisin/items/0fefda4d36935aedb741)
 
 ## redux
+- [Redux 再考](https://mizchi.hatenablog.com/entry/2018/10/04/101308)
 - [React環境にReduxを導入して秩序をもたらした話](http://cluex-developers.hateblo.jp/entry/2018/04/10/122246)
 - [React Redux の SPA を運用して得られた知見と実装例、開発フローもあるよ！](https://qiita.com/numanomanu/items/af97312f34cf1388cee6)
 - [Redux のディレクトリ構成を考える](https://speakerdeck.com/sottar/redux-falsedeirekutorigou-cheng-wokao-eru)
